@@ -1,5 +1,7 @@
 # Hi!
 Hi, I'm Juliette! I code random shit, but I normally make random java shit and iOS tweaks!
+![My github stats](https://github-readme-stats.vercel.app/api?username=justnaa&theme=nightowl&show_icons=true)
+
 
 ## Some of my work
 [Ping](https://github.com/justnaa/PingTweak)
