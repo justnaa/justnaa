@@ -16,8 +16,7 @@ Hi, I'm Juliette! I code random shit, but I normally make random java shit and i
 [Acrobat](https://github.com/justnaa/acrobat)
 
 ## What I'm currently working on
-[Acrobat](https://github.com/justnaa/acrobat)
-
+An unnamed ereader for iOS 
 ## Contact me
 [Twitter](https://twitter.com/juliettepod)
 
