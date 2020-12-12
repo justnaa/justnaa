@@ -4,7 +4,7 @@ I'm Juliette (She/Her), I like to make random things
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=justnaa&theme=nightowl&show_icons=true)
 ## My work
-![](https://raw.githubusercontent.com/justnaa/repo/master/assets/ping.svg)
+![](https://raw.githubusercontent.com/justnaa/repo/love/assets/ping/banner.png)
 > [Ping](https://github.com/justnaa/PingTweak)
 
 
