@@ -1,2 +1,3 @@
-# Hi!
-I'm Juliette (She/Her) [Contact me](https://matrix.to/#/@juliette:chat.juliette.page)
+![An image of a black cat curiously looking at the viewer on a table next to a plate of toast, bread, cheese, and susage in an anime artstyle](https://files.mastodon.social/accounts/headers/107/582/165/554/839/405/original/beba788548593be2.jpeg)
+
+[![Mastodon](https://img.shields.io/static/v1?label=My&message=Mastodon&color=blueviolet&style=for-the-badge)](https://mastodon.social/@salut) [![Matrix](https://img.shields.io/static/v1?label=My&message=Matrix&color=blueviolet&style=for-the-badge)](https://matrix.to/#/@juliette:chat.juliette.page) [![Email](https://img.shields.io/static/v1?label=My&message=Email&color=blueviolet&style=for-the-badge)](mailto:juliette@juliette.page) ![Pronouns: She/They](https://img.shields.io/static/v1?label=Pronouns&message=She/They&color=blueviolet&style=for-the-badge)
